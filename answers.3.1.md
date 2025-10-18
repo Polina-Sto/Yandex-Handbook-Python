@@ -144,31 +144,3 @@ for i in range(a):
         print(b[i - ind * 5])
 ```
 
-M. 
-```python
-
-```
-
-N. 
-```python
-
-```
-O. 
-```python
-
-```
-
-P. 
-```python
-
-```
-
-Q. 
-```python
-
-```
-
-R. 
-```python
-
-```
