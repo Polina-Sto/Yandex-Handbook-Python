@@ -128,11 +128,6 @@ for i in range(c):
 print(x)
 ```
 
-M. Первому игроку приготовиться 2.0
-```python
-
-```
-
 N. Простая задача
 ```python
 a = int(input())
@@ -159,17 +154,3 @@ for i in range(a):
 print(res)
 ```
 
-P. А роза упала на лапу Азора 2.0
-```python
-
-```
-
-Q. 
-```python
-
-```
-
-R. 
-```python
-
-```
