@@ -47,10 +47,3 @@ I. Преобразование в строку
 ' - '.join(map(str, sorted([i for i in set(numbers)])))
 ```
 
-
-```
-
-R. 
-```python
-
-```
