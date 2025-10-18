@@ -211,27 +211,3 @@ else:
     for i in sorted(res):
         print(i)
 ```
-
-N. 
-```python
-
-```
-O. 
-```python
-
-```
-
-P. 
-```python
-
-```
-
-Q. 
-```python
-
-```
-
-R. 
-```python
-
-```
