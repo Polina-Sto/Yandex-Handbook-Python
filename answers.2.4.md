@@ -105,46 +105,4 @@ for i in range(a):
     print(maxi, end='')
 ```
 
-J. Мы делили апельсин
-```python
 
-```
-
-K. 
-```python
-
-```
-
-L. 
-```python
-
-```
-
-M. 
-```python
-
-```
-
-N. 
-```python
-
-```
-O. 
-```python
-
-```
-
-P. 
-```python
-
-```
-
-Q. 
-```python
-
-```
-
-R. 
-```python
-
-```
